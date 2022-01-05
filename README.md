@@ -1,8 +1,8 @@
-Hi, I'm @sad-squid 🦑 aka Cuong, my pronouns are he/him. 
-
-I'm currently a webdev @ Zoom ⚛️ 
-I love: 
-- 🖥️ coding
-- 🎲 gaming 
-- 🎨 design
-& 🍙 tuna mayo onigiri
+Hi, I’m Cuong!
+I’m a Viet-Chinese-American engineer who works on the web. I love being a part of projects that inspire people. I’m passionate about fostering a healthy learning culture and creating that space for everyone.
+Currently, I’m working as a software engineer creating and maintaining scalable customer experiences for OnZoom.
+Talk to me about:
+- gaming 🖥️🎲
+- design 🎨🍥
+- and travel ✈️⛵
+Let’s connect!
